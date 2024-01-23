@@ -46,7 +46,7 @@ body {
         flex-grow: 1;
         flex-direction: column;
         justify-content: center;
-        padding: 10px;
+        padding:20px;
 
     }
 
@@ -58,7 +58,7 @@ body {
 
     .main-heading {
         font-family: "Roboto";
-        font-size: 22px;
+        font-size: 30px;
     }
 
     .main-para {
