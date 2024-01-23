@@ -103,9 +103,9 @@ body {
     }
 
     .blocks-container-2 {
-        height: 200px;
+        height: 150px;
         margin: 15px;
-        max-width: 400px;
+        max-width: 300px;
         background-color: #EF5327;
         padding: 30px;
         align-self: center;
